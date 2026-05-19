@@ -7,5 +7,4 @@ public class Test01 {
 		System.out.println("沖中 陽");
 		System.out.println("渡部柊");
 	}
-
 }
