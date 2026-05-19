@@ -6,6 +6,7 @@ public class Test01 {
 		// TODO 自動生成されたメソッド・スタブ
 		System.out.println("沖中 陽");
 		System.out.println("渡部柊");
+		System.out.println("安田健朗");
 	}
 
 }
